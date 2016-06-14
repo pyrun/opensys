@@ -26,9 +26,9 @@ char g_type = 'A';
 char g_amount = 2;
 
 void setup() {
-  radio = new pyrun( 8, 9);
+  radio = new pyrun( 9, 10);
   radio->set( g_type, g_amount);
-  radio->setPins( 2,3,4,5,6,7,11, 12);
+  radio->setPins( A0,A1,A2,A3,A4,A5, 3, 2);
   radio->setServer();
   Serial.begin(9600);
   printf_begin();
