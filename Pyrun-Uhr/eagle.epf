@@ -346,20 +346,13 @@ UsedLibrary="C:/EAGLE-7.4.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="C:/EAGLE-7.4.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/EAGLE-7.4.0/lbr/zetex.lbr"
 UsedLibrary="C:/EAGLE-7.4.0/lbr/zilog.lbr"
-UsedLibrary="C:/Users/Pyrun/Downloads/74hc(t)4046.lbr"
-UsedLibrary="C:/Users/Pyrun/Downloads/74xx-eu.lbr"
-UsedLibrary="C:/Users/Pyrun/Downloads/atmega328.lbr"
-UsedLibrary="C:/Users/Pyrun/Downloads/SparkFun-DigitalIC.lbr"
-UsedLibrary="C:/Users/Pyrun/Downloads/con-usb-3.lbr"
-UsedLibrary="C:/Users/Pyrun/Downloads/diy-modules.lbr"
-UsedLibrary="C:/Users/Pyrun/Downloads/Ergaenzung.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="62 0 1919 1016"
+Loc="62 0 1919 1056"
 State=1
 Number=0
 
 [Desktop]
-Screen="3840 1080"
+Screen="1920 1080"
 Window="Win_1"
